@@ -20,7 +20,7 @@ Entusiasta por inovações, buscando conquistas que vão mudar a forma de ver a 
 
 ## Desafios do Programa Next
 
-Desafios entregues no Programa Next da Oracle em parceria com a Alura
+Desafios entregues no Programa ONE Next da Oracle em parceria com a Alura
 
 
 <div style="display: inline_block "><br/>
