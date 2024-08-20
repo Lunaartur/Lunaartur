@@ -42,7 +42,7 @@ Desafios entregues no Programa ONE Next da Oracle em parceria com a Alura
 ## Projetos Pessoais em javascript
 
 <div style="display: inline_block "><br/>
-    <a href="https://github.com/Lunaartur/pokedexmaster">
+    <a href="https://pokedexmaster.vercel.app/">
     <img align="center" src="https://github.com/user-attachments/assets/fea1f4a6-1515-4b44-bc46-380e899a472a" alt="Projeto Pokedex" width="100" > 
     </a>
     <a href="https://weatherapp1-ecru.vercel.app/">
