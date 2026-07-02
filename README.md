@@ -1,4 +1,3 @@
-
 ### Olá! Eu sou o Arthur Luna 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-luna-155580228/)
@@ -50,24 +49,10 @@ Desafios entregues no Programa ONE Next da Oracle em parceria com a Alura
     </a>
 </div><br/>
 
+## Projetos de Dados
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div style="display: inline_block "><br/>
+    <a href="https://github.com/Lunaartur/tech-challenge-olist">
+    <img align="center" src="https://img.shields.io/badge/Tech_Challenge_Olist-Jupyter_Notebook-orange?style=for-the-badge&logo=jupyter" alt="Tech Challenge Olist" width="200">
+    </a>
+</div><br/>
